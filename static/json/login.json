@@ -1,0 +1,12 @@
+{
+	'msg': 'success',
+	'code': 200,
+	'data': {
+		'name': 'john',
+		'age': 20,
+		'talent': [
+			'sport': 'pingpang',
+			''
+		]
+	}
+}
